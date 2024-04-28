@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
-- 🔏  I’m currently working on new features for a project management platform.
+- 🔏  Currently a Product Manger with a background in technology
 - 🧐  Exploring new ways to implement my coding skills into my own personal passions
 - 🤝  Always looking to collaborate with awesome like minded people
 - 💻  Always seeking to travel, connect, learn, and teach
